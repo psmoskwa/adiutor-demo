@@ -15,8 +15,9 @@ To repozytorium może służyć jako publiczna wersja demonstracyjna. Aby rozpoc
    git clone https://github.com/psmoskwa/adiutor-demo.git
    ```
 2. Otwórz katalog w Cursorze lub innym edytorze obsługującym Markdown.
-3. Pracuj wyłącznie na zanonimizowanych albo fikcyjnych materiałach.
-4. Własne jawne dane klientów przechowuj poza repozytorium albo w katalogach wyłączonych z wersjonowania.
+3. W ustawieniach Cursora (`General`) lub odpowiednio innego edytora zaleca się włączenie `Private Mode`.
+4. Pracuj wyłącznie na zanonimizowanych albo fikcyjnych materiałach.
+5. Własne jawne dane klientów przechowuj poza repozytorium albo w katalogach wyłączonych z wersjonowania.
 
 ## Cel
 
