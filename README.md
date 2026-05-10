@@ -4,7 +4,7 @@ Adiutor to lekkie środowisko pracy z AI dla prawników, zbudowane wokół uporz
 
 Pozwala prawnikom bezpiecznie pracować z AI: porządkować materiały, analizować orzecznictwo, tworzyć projekty pism, budować argumentację i przekształcać pojedyncze sprawy w trwałą bazę wiedzy.
 
-Adiutor pokazuje też alternatywną drogę budowania aplikacji eksperckich: najpierw metodyka, dane i workflow, dopiero potem aplikacja. Dzięki temu można szybko prototypować rozwiązania AI dla specjalistów z różnych dziedzin, zachowując kontrolę nad jakością, źródłami i sposobem pracy eksperta.
+Adiutor pokazuje równocześnie alternatywną drogę budowania rozwiązań eksperckich: najpierw metodyka, dane i workflow, dopiero potem aplikacja. Dzięki temu można szybko prototypować rozwiązania AI dla specjalistów z różnych dziedzin, zachowując kontrolę nad jakością, źródłami i sposobem pracy eksperta.
 
 ## Instalacja lokalna
 
@@ -24,7 +24,7 @@ To repozytorium może służyć jako publiczna wersja demonstracyjna. Aby rozpoc
 - porządkowanie spraw, analiz, notatek, źródeł i projektów dokumentów w jednym repozytorium wiedzy,
 - wspieranie analizy orzecznictwa, budowania argumentacji i przygotowywania projektów pism,
 - przekształcanie pojedynczych spraw i researchu w trwałą, wielokrotnie użyteczną bazę wiedzy,
-- testowanie metodyki, danych i workflow przed budową dedykowanych aplikacji eksperckich.
+- testowanie metodyki, danych i workflow przed budową dedykowanych rozwiązań eksperckich.
 
 ## Zasada podstawowa
 
