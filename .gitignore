@@ -1,0 +1,33 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+
+# Obsidian local workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Raw or non-anonymized materials should stay outside the repository
+_dane_jawne/
+_materialy-nieanonimizowane/
+*.tmp
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+
+# Raw document exports and scans
+*.pdf
+*.doc
+*.docx
+*.odt
+*.jpg
+*.jpeg
+*.png
+*.tiff
+*.webp

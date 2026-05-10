@@ -1,0 +1,13 @@
+---
+description: Ogolne reguly pracy w repozytorium Adiutor
+alwaysApply: true
+---
+
+# Adiutor - reguly ogolne
+
+- Traktuj repozytorium jako prywatne srodowisko pracy prawniczej.
+- Pracuj na plikach Markdown, jezeli uzytkownik nie wskaze innego formatu.
+- Wszystkie dokumenty tworzone w języku polskim powinny używać polskich znaków.
+- Nie dodawaj jawnych danych osobowych ani informacji pozwalajacych latwo zidentyfikowac klienta.
+- Uzywaj identyfikatorow `K-0001` dla klientow, `S-0001` dla spraw i `D-0001` dla dokumentow.
+- Odrabiaj zadania w waskim zakresie wskazanym przez uzytkownika.

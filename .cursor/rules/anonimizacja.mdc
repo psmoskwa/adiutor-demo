@@ -1,0 +1,12 @@
+---
+description: Reguly anonimizacji materialow i nazw w Adiutorze
+alwaysApply: true
+---
+
+# Anonimizacja
+
+- Zastepuj dane klientow i osob identyfikatorami technicznymi, np. `K-0001`, `Osoba-0001`, `Spolka-0001`.
+- Zastepuj sygnatury, numery umow, adresy, numery dokumentow i dane kontaktowe neutralnymi znacznikami.
+- Nie probuj odtwarzac usunietych danych osobowych z kontekstu.
+- Jezeli uzytkownik przekazuje niezanonimizowany material, zaproponuj wersje zanonimizowana przed dalsza analiza.
+- W notatkach utrzymuj tylko informacje konieczne do celu sprawy.
