@@ -10,7 +10,10 @@ Adiutor pokazuje też alternatywną drogę budowania aplikacji eksperckich: najp
 
 To repozytorium może służyć jako publiczna wersja demonstracyjna. Aby rozpocząć pracę lokalnie:
 
-1. Sklonuj repozytorium.
+1. Sklonuj repozytorium:
+   ```powershell
+   git clone https://github.com/psmoskwa/adiutor-demo.git
+   ```
 2. Otwórz katalog w Cursorze lub innym edytorze obsługującym Markdown.
 3. Pracuj wyłącznie na zanonimizowanych albo fikcyjnych materiałach.
 4. Własne jawne dane klientów przechowuj poza repozytorium albo w katalogach wyłączonych z wersjonowania.
