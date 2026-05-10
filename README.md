@@ -16,8 +16,12 @@ To repozytorium może służyć jako publiczna wersja demonstracyjna. Aby rozpoc
    ```
 2. Otwórz katalog w Cursorze lub innym edytorze obsługującym Markdown.
 3. W ustawieniach Cursora (`General`) lub odpowiednio innego edytora zaleca się włączenie `Private Mode`.
-4. Pracuj wyłącznie na zanonimizowanych albo fikcyjnych materiałach.
-5. Własne jawne dane klientów przechowuj poza repozytorium albo w katalogach wyłączonych z wersjonowania.
+4. Pracuj w czacie z wybranym agentem AI, np. GPT-5.5, prosząc go o korzystanie z kontekstu plików repozytorium i zasad zapisanych w `AGENTS.md` oraz `.cursor/rules/`. Przykładowy pierwszy prompt:
+   ```text
+   Pracuj w kontekście repozytorium Adiutor. Przeczytaj `AGENTS.md`, `.cursor/rules/` oraz `README.md`, a następnie pomóż mi przygotować zanonimizowaną analizę prawną w strukturze zgodnej z zasadami repozytorium. Oddziel fakty, pytania prawne, przepisy, orzecznictwo, ocenę i rekomendacje. Nie dodawaj jawnych danych osobowych.
+   ```
+5. Pracuj wyłącznie na zanonimizowanych albo fikcyjnych materiałach.
+6. Własne jawne dane klientów przechowuj poza repozytorium albo w katalogach wyłączonych z wersjonowania.
 
 ## Cel
 
